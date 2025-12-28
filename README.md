@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [aadityakanojiyaportfolio.netlify.app/](aadityakanojiyaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [aadityakanojiyaportfolio.netlify.app/](https://aadityakanojiyaportfolio.netlify.app/)
 
 - 📫 How to reach me **adityastudent750@gmail.com**
 
