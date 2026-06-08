@@ -209,16 +209,6 @@ Mode: Coding 🚀
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaKanojiya23&theme=tokyo-night"/>
-
-</div>
-
----
-
 # 🏆 ACHIEVEMENT WALL
 
 <div align="center">
@@ -362,58 +352,6 @@ print(developer.future())
 > "Great software is not just written.
 >
 > It is designed, engineered and refined."
-
----
-
-# 🚀 FUTURE ROADMAP
-
-```mermaid
-graph TD
-
-A[Frontend Mastery] --> B[React Expert]
-
-B --> C[Node.js]
-
-C --> D[MongoDB]
-
-D --> E[Full Stack Developer]
-
-E --> F[Open Source Contributor]
-
-F --> G[Tech Entrepreneur]
-```
-
----
-
-# 🧠 RANDOM DEV QUOTE
-
-```javascript
-while(alive){
-
-   eat();
-
-   sleep();
-
-   code();
-
-   repeat();
-
-}
-```
-
----
-
-# ⚡ FUN FACTS
-
-🎨 Love Designing Interfaces
-
-💻 Love Solving Problems
-
-🚀 Love Building Products
-
-🌍 Love Learning New Technologies
-
-☕ Powered By Coffee & Curiosity
 
 ---
 
