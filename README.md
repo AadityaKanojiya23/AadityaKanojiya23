@@ -270,33 +270,6 @@ const aditya = {
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
-
----
-
-# 🤖 AI DEVELOPER PROFILE
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Aditya Kanojiya"
-        self.role = "Frontend Developer"
-        self.stack = [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "React",
-            "Node.js",
-            "MongoDB"
-        ]
-
-    def future(self):
-        return "Full Stack Engineer 🚀"
-
-developer = Developer()
-print(developer.future())
-```
-
 ---
 
 # 🎮 DEVELOPER ACHIEVEMENTS
