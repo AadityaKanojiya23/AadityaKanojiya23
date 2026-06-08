@@ -272,31 +272,6 @@ const aditya = {
 
 ---
 
-# 💻 TERMINAL
-
-```bash
-> whoami
-
-Aditya Kanojiya
-
-> current_role
-
-Frontend Developer
-
-> current_focus
-
-MERN Stack Development
-
-> next_goal
-
-Full Stack Engineer
-
-> status
-
-Building Cool Stuff 🚀
-```
-
----
 
 # 🐍 CONTRIBUTION SNAKE
 
@@ -334,33 +309,6 @@ print(developer.future())
 
 ---
 
-# 🌌 CYBERPUNK CONTROL PANEL
-
-```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-SYSTEM NAME: ADITYA-OS
-
-CPU: Creative Thinking Engine
-
-RAM: Unlimited Learning Capacity
-
-STATUS: ONLINE 🟢
-
-CURRENT TASK:
-Building Awesome Projects
-
-TARGET:
-Full Stack Developer
-
-VERSION:
-v2026.0
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
 # 🎮 DEVELOPER ACHIEVEMENTS
 
 🏆 Built Real Projects
@@ -380,26 +328,6 @@ v2026.0
 🏆 Continuous Learner
 
 ---
-
-# ⚔️ BATTLE STATS
-
-```text
-Frontend Development  ██████████ 100%
-
-UI/UX Design          █████████░  90%
-
-JavaScript            ████████░░  85%
-
-React                 ███████░░░  75%
-
-Node.js               ██████░░░░  65%
-
-MongoDB               █████░░░░░  55%
-
-Creativity            ██████████ 100%
-
-Dedication            ██████████ 100%
-```
 
 ---
 
