@@ -102,7 +102,7 @@ Mode: Coding 🚀
 
 ### 🍜 Naruto 3D World
 
-━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━ 
 
 🎨 Interactive Anime Experience
 
