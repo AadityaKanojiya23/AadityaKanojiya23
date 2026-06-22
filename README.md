@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Frontend+Developer;UI%2FUX+Designer;MERN+Stack+Developer;Creative+Problem+Solver;Building+The+Future+One+Project+At+A+Time"/>
 
 <br>
-
 <img src="https://komarev.com/ghpvc/?username=AadityaKanojiya23&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/AadityaKanojiya23?style=for-the-badge"/>
