@@ -32,7 +32,7 @@ Mode: Coding 🚀
 
 ---
 
-# 🧠 DEVELOPER PROFILE
+# 🧠 DEVELOPER PROFILE 
 
 > Passionate Frontend Developer focused on creating
 > immersive digital experiences with modern technologies.
