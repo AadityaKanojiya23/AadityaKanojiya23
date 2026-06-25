@@ -2,7 +2,7 @@
     
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ADITYA%20KANOJIYA&fontSize=70&fontAlignY=40&animation=fadeIn"/>
 
-# ⚡ WELCOME TO MY DIGITAL UNIVERSE ⚡ 
+# ⚡ WELCOME TO MY DIGITAL UNIVERSE ⚡  
  
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Frontend+Developer;UI%2FUX+Designer;MERN+Stack+Developer;Creative+Problem+Solver;Building+The+Future+One+Project+At+A+Time"/>
 
