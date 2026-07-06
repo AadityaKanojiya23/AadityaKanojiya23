@@ -187,41 +187,14 @@ Mode: Coding 🚀
 
 ---
 
-# 📊 DEVELOPER DASHBOARD
-
-<div align="center">
-
-### ⚡ REAL TIME ANALYTICS
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AadityaKanojiya23&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaKanojiya23&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaKanojiya23&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
-
-# 🏆 ACHIEVEMENT WALL
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AadityaKanojiya23&theme=radical&no-frame=true&row=2&column=4"/>
-
-</div>
-
 ---
-
-
-
-
 
 
 # 🎮 DEVELOPER ACHIEVEMENTS
