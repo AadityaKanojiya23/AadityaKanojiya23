@@ -192,11 +192,6 @@ Mode: Coding 🚀
 
 <br>
 
-
-
----
-
-
 # 🎮 DEVELOPER ACHIEVEMENTS
 
 🏆 Built Real Projects
