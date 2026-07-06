@@ -219,58 +219,10 @@ Mode: Coding 🚀
 
 ---
 
-# ⚡ DEVELOPER JOURNEY
-
-```text
-2024 ███░░░░░░░ Started Web Development
-
-2025 ██████░░░░ Built Multiple Projects
-
-2026 █████████░ Learning MERN Stack
-
-2027 ██████████ Future Full Stack Developer
-```
-
----
-
-# 🎯 CURRENT MISSION
-
-```javascript
-const aditya = {
-    role: "Frontend Developer",
-    focus: "Building Amazing Web Experiences",
-    learning: ["React", "Node.js", "MongoDB"],
-    goal: "Become Full Stack Developer",
-    mindset: "Never Stop Learning 🚀"
-}
-```
-
----
-
-# 🛡️ SKILL MATRIX
-
-| Technology | Experience |
-|------------|------------|
-| HTML | ██████████ |
-| CSS | █████████░ |
-| JavaScript | ████████░░ |
-| React | ███████░░░ |
-| Node.js | ██████░░░░ |
-| MongoDB | █████░░░░░ |
-| Git & GitHub | ████████░░ |
-| UI/UX Design | █████████░ |
-
----
 
 
-# 🐍 CONTRIBUTION SNAKE
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
----
 
 # 🎮 DEVELOPER ACHIEVEMENTS
 
