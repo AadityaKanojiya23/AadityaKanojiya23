@@ -1,4 +1,4 @@
-<div align="center">                     
+<div align="center">                      
   <img    
     width="100%" 
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ADITYA%20KANOJIYA&fontSize=70&fontAlignY=40&animation=fadeIn"
